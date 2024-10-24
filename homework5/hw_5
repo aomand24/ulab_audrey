@@ -1,0 +1,25 @@
+1.1
+1. To know the absolute path, use the command pwd.
+2. the command ls will show all the directories and files within music. It shou$
+3. You can use nano patterns.txt or touch patterns.txt to open it.
+4. cat command prints the contents of the file in terminal and doesnt open a text editor.
+5.
+6. mv patterns.txt ../math/calculus
+7. rm triangle.txt
+8. cd ../math
+9. git init
+10. git remote add origin <repo url>
+11. cp -r symmetry.txt ../math  
+12. git status
+13. git add symmetry.txt
+    git add .
+14. git is currently tracking symmetry.txt
+15. git commit -m "pushing symmetry.txt to remote repository"
+16. git push origin main because that is the current branch we are in unless we have changed branches
+17. git branch applied_math
+18. git checkout applied_math
+19. git add., git commit -m "commiting applied math branch with physics to github", git push origin applied_math. If we switched back before committing these changes it would make those changes to another branch, git would also not let us switch.
+20. git branch will show all branches, the one highlighted in green is the current branch we are on.
+21. git checkout main
+22.
+23. 
